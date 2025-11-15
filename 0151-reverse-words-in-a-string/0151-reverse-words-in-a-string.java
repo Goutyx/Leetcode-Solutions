@@ -7,7 +7,6 @@ class Solution {
             newarr[j]=arr[i];
             j++;
         }
-        String m= String.join(" ", newarr);
-        return m;
+        return String.join(" ", newarr);
     }
 }
