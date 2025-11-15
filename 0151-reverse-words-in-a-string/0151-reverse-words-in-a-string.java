@@ -1,17 +1,13 @@
 class Solution {
     public String reverseWords(String s) {
-        s = s.trim(); // remove leading/trailing spaces
-        String[] arr = s.split("\\s+");
-
-        int left = 0, right = arr.length - 1;
-        while (left < right) {
-            String temp = arr[left];
-            arr[left] = arr[right];
-            arr[right] = temp;
-            left++;
-            right--;
+        String[] arr=s.trim().split("\\s+");
+        String[] newarr=new String[arr.length];
+        int j=0;
+        for(int i=arr.length-1;i>=0;i--){
+            newarr[j]=arr[i];
+            j++;
         }
-
-        return String.join(" ", arr);
+        String m= String.join(" ", newarr);
+        return m;
     }
 }
