@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 ## Trie
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
