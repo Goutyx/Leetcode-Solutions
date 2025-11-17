@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 ## Trie
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
