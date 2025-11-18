@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0742-to-lower-case](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0742-to-lower-case) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
