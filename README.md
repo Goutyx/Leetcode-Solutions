@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0169-majority-element](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0389-find-the-difference) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -134,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
