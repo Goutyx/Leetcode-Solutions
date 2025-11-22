@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0932-monotonic-array](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0932-monotonic-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Goutyx/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Bit Manipulation
