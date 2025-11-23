@@ -9,7 +9,7 @@ class Solution {
         String last=strs[strs.length-1];
         int i=0;
 
-        while(i<first.length() && i<last.length() && first.charAt(i)==last.charAt(i)){
+        while(i<first.length() && first.charAt(i)==last.charAt(i)){
             i++;
         }
 
