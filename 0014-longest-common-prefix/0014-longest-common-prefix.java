@@ -8,6 +8,7 @@ class Solution {
         String first=strs[0];
         String last=strs[strs.length-1];
         int i=0;
+        String s="";
 
         while(i<first.length() && first.charAt(i)==last.charAt(i)){
             i++;
