@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1672-richest-customer-wealth](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Goutyx/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Goutyx/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Greedy
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Goutyx/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Goutyx/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Trie
 |  |
