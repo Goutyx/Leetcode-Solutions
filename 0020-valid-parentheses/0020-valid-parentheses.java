@@ -3,26 +3,25 @@ class Solution {
         Stack <Character> stack = new Stack<>();
 
         for(int i=0;i<s.length();i++){
-            char ch = s.charAt(i);
-            if(ch == '(' || ch == '[' || ch == '{'){
-                stack.push(ch);
+            char c=s.charAt(i);
+            if(c == '(' || c=='[' || c=='{'){
+                stack.push(c);
             }else{
                 if(stack.isEmpty()){
                     return false;
                 }
-                else{
-                    char peek = stack.peek();
-                if(ch == ')' && peek != '('){
+
+                char top=stack.peek();
+                if(c == ')' && top != '('){
                     return false;
                 }
-                if(ch == ']' && peek != '['){
+                if(c == ']' && top != '['){
                     return false;
                 }
-                if(ch == '}' && peek != '{'){
+                if(c == '}' && top != '{'){
                     return false;
                 }
                 stack.pop();
-                }
             }
         }
         return stack.isEmpty();
