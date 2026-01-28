@@ -30,7 +30,7 @@ class Solution {
         int ans=-1;
 
         while(first<=last){
-            int mid=first+(last-first)/2;
+            int mid=(first+last)/2;
             if(nums[mid]==target){
                 ans=mid;
                 first=mid+1;
