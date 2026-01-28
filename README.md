@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0735-asteroid-collision](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-monotonic-array](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0932-monotonic-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1004-max-consecutive-ones-iii](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -212,12 +213,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0649-dota2-senate) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
 ## Recursion
 |  |
@@ -303,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
