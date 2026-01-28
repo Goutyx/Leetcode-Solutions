@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
