@@ -1,26 +1,26 @@
 class Solution {
     public void sortColors(int[] nums) {
-    // Dutch National Flag Algorithm //
-        int start=0;
-        int current=0;
-        int end=nums.length-1;
+    // Dutch National Flag Algorithm is used when sorting is involved and only three numbers 0 1 and 2 is involved //
+        int start = 0;
+        int mid = 0;
+        int end = nums.length-1;
 
-        while(current<=end){
-            if(nums[current]==0){
-                swap(nums, current, start);
-                current++;
+        while(mid<=end){
+            if(nums[mid]==0){
+                swap(nums, start, mid);
                 start++;
-            }else if(nums[current]==2){
-                swap(nums, current, end);
-                end--;
+                mid++;
+            }else if(nums[mid]==1){
+                mid++;
             }else{
-                current++;
+                swap(nums, end, mid);
+                end--;
             }
         }
     }
 
-    public void swap(int[] nums, int i, int j){
-        int temp=nums[i];
+    static void swap(int[] nums, int i, int j){
+        int temp = nums[i];
         nums[i]=nums[j];
         nums[j]=temp;
     }
