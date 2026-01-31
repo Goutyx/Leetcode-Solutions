@@ -22,9 +22,9 @@ class Solution {
             i--;
             j--;
             int sum = a+b+carry;
-            sb.insert(0,sum%10);
+            sb.append(sum%10);
             carry = sum/10;
         }
-        return sb.toString();
+        return sb.reverse().toString();
     }
 }
