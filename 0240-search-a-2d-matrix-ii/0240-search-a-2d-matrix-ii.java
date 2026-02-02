@@ -3,9 +3,9 @@ class Solution {
         int r = matrix.length;
         int c = matrix[0].length;
 
-        if(r==0 || c==0 || matrix==null){
-            return false;
-        }
+        // if(r==0 || c==0 || matrix==null){
+        //     return false;
+        // }
 
         int start = 0;
         int end = c-1;
