@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0735-asteroid-collision](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Goutyx/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Merge Sort
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
 | [0901-online-stock-span](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
