@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-monotonic-array](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0932-monotonic-array) |
+| [0941-valid-mountain-array](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0941-valid-mountain-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1004-max-consecutive-ones-iii](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
