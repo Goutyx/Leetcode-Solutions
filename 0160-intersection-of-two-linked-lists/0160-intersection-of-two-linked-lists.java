@@ -30,6 +30,6 @@ public class Solution {
                 b = b.next;
             }
         }
-        return a;
+        return b;
     }
 }
