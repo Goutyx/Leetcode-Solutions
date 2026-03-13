@@ -3,16 +3,10 @@ class Solution {
         PriorityQueue <Integer> pq = new PriorityQueue<>();
         for(int num:nums){
             pq.add(num);
-        }
-        int count = 0;
-        while(!pq.isEmpty()){
-            if(count==nums.length-k){
-                return pq.peek();
-            }else{
-                count++;
+            if(pq.size()>k){
                 pq.poll();
             }
         }
-        return 0;
+        return pq.peek();
     }
 }
