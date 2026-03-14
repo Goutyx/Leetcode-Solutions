@@ -2,8 +2,6 @@ class Solution {
     public int[] topKFrequent(int[] nums, int k) {
 
         HashMap<Integer,Integer> map = new HashMap<>();
-
-        // count frequency
         for(int num : nums){
             map.put(num, map.getOrDefault(num,0)+1);
         }
@@ -19,7 +17,6 @@ class Solution {
                 pq.poll();
             }
         }
-
         int[] arr = new int[k];
         int i = 0;
 
