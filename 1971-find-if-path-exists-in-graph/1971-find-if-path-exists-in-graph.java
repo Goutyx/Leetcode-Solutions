@@ -12,10 +12,10 @@ class Solution {
             list.get(a).add(b);
             list.get(b).add(a);
         }
-        bfs(n, list, visited, source, destination);
+        bfs(list, visited, source);
         return visited[destination];
     }
-    public static void bfs(int n,ArrayList<ArrayList<Integer>>list,boolean[] visited,int source,int destination){
+    public static void bfs(ArrayList<ArrayList<Integer>>list,boolean[] visited,int source){
         Queue<Integer> q = new LinkedList<>();
         q.add(source);
         visited[source] = true;
