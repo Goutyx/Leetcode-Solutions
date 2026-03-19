@@ -21,7 +21,7 @@ class Solution {
             int temp  = q.poll();
             int color = visit[temp];
             for(int k : graph[temp]){
-                if(visit[k]==visit[temp]){
+                if(visit[k]==color){
                     found = false;
                     return;
                 }
