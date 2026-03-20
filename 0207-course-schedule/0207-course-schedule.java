@@ -8,7 +8,7 @@ class Solution {
         for(int i=0;i<prerequisites.length;i++){
             int a = prerequisites[i][0];
             int b = prerequisites[i][1];
-            list.get(a).add(b);
+            list.get(b).add(a);
         }
         int[] indegree = new int[n];
         for(int i=0;i<n;i++){
