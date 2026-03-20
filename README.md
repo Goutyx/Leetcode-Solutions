@@ -496,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0785-is-graph-bipartite](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0938-range-sum-of-bst](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0785-is-graph-bipartite](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
@@ -581,4 +584,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
