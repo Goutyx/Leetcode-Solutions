@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1572-matrix-diagonal-sum](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1631-path-with-minimum-effort](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Goutyx/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1631-path-with-minimum-effort](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1631-path-with-minimum-effort](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Counting
 |  |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0938-range-sum-of-bst](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
+| [1631-path-with-minimum-effort](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -525,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
+| [1631-path-with-minimum-effort](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
@@ -551,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1514-path-with-maximum-probability) |
+| [1631-path-with-minimum-effort](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
 |  |
 | ------- |
@@ -575,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
