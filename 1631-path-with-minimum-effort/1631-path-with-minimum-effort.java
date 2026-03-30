@@ -30,10 +30,6 @@ class Solution {
             int b = curr.col;
             int c = curr.efforts;
 
-
-            // if(a==r-1 && b==cc-1){
-            //     continue;
-            // }
             if(a>0){
                 int e = Math.abs(arr[a][b] - arr[a-1][b]);
                 e = Math.max(e,c);
