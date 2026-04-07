@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1894-merge-strings-alternately](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
+| [1903-largest-odd-number-in-string](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Goutyx/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1903-largest-odd-number-in-string](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Array
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1903-largest-odd-number-in-string](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
