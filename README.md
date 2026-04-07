@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0742-to-lower-case) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Goutyx/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Design
