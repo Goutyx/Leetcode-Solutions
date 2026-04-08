@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0742-to-lower-case) |
+| [0796-rotate-string](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0796-rotate-string) |
 ## Sliding Window
 |  |
 | ------- |
