@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
+| [0643-maximum-average-subarray-i](https://github.com/Goutyx/Leetcode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Goutyx/Leetcode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
