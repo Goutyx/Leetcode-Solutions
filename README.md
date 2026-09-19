@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Goutyx/Leetcode-Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/Goutyx/Leetcode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Goutyx/Leetcode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
