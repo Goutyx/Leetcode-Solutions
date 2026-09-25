@@ -657,4 +657,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Goutyx/Leetcode-Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0182-duplicate-emails](https://github.com/Goutyx/Leetcode-Solutions/tree/main/0182-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
