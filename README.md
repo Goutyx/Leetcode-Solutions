@@ -677,5 +677,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Goutyx/Leetcode-Solutions/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1075-project-employees-i](https://github.com/Goutyx/Leetcode-Solutions/tree/main/1075-project-employees-i/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Goutyx/Leetcode-Solutions/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
+| [1683-invalid-tweets](https://github.com/Goutyx/Leetcode-Solutions/tree/main/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/Goutyx/Leetcode-Solutions/tree/main/1729-find-followers-count/) | Easy |
 <!---LeetCode Topics End-->
