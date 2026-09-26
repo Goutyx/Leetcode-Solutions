@@ -667,4 +667,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Goutyx/Leetcode-Solutions/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/Goutyx/Leetcode-Solutions/tree/main/0184-department-highest-salary/) | Medium |
 | [0511-game-play-analysis-i](https://github.com/Goutyx/Leetcode-Solutions/tree/main/0511-game-play-analysis-i/) | Easy |
+| [0577-employee-bonus](https://github.com/Goutyx/Leetcode-Solutions/tree/main/0577-employee-bonus/) | Easy |
 <!---LeetCode Topics End-->
