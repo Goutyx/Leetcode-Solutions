@@ -669,4 +669,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/Goutyx/Leetcode-Solutions/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0577-employee-bonus](https://github.com/Goutyx/Leetcode-Solutions/tree/main/0577-employee-bonus/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Goutyx/Leetcode-Solutions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
+| [0595-big-countries](https://github.com/Goutyx/Leetcode-Solutions/tree/main/0595-big-countries/) | Easy |
 <!---LeetCode Topics End-->
