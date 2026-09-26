@@ -674,4 +674,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/Goutyx/Leetcode-Solutions/tree/main/0607-sales-person/) | Easy |
 | [0620-not-boring-movies](https://github.com/Goutyx/Leetcode-Solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/Goutyx/Leetcode-Solutions/tree/main/0627-swap-sex-of-employees/) | Easy |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Goutyx/Leetcode-Solutions/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 <!---LeetCode Topics End-->
