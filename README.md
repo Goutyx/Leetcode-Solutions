@@ -668,4 +668,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/Goutyx/Leetcode-Solutions/tree/main/0184-department-highest-salary/) | Medium |
 | [0511-game-play-analysis-i](https://github.com/Goutyx/Leetcode-Solutions/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0577-employee-bonus](https://github.com/Goutyx/Leetcode-Solutions/tree/main/0577-employee-bonus/) | Easy |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Goutyx/Leetcode-Solutions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 <!---LeetCode Topics End-->
