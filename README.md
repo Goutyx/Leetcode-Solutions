@@ -670,4 +670,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/Goutyx/Leetcode-Solutions/tree/main/0577-employee-bonus/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Goutyx/Leetcode-Solutions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0595-big-countries](https://github.com/Goutyx/Leetcode-Solutions/tree/main/0595-big-countries/) | Easy |
+| [0596-classes-with-at-least-5-students](https://github.com/Goutyx/Leetcode-Solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 <!---LeetCode Topics End-->
