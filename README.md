@@ -680,4 +680,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-reformat-department-table](https://github.com/Goutyx/Leetcode-Solutions/tree/main/1179-reformat-department-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/Goutyx/Leetcode-Solutions/tree/main/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/Goutyx/Leetcode-Solutions/tree/main/1729-find-followers-count/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Goutyx/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
