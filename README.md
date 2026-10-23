@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0941-valid-mountain-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Goutyx/Leetcode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0994-rotting-oranges](https://github.com/Goutyx/Leetcode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/Goutyx/Leetcode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Goutyx/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/Goutyx/Leetcode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Goutyx/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
